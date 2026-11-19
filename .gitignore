@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+data/*
+chroma_db/*
+!data/.gitkeep
+!chroma_db/.gitkeep
